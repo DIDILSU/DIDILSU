@@ -9,9 +9,7 @@
     Cientista da Computação com experiência em desenvolvimento web full stack, focado na criação de soluções eficientes, escaláveis e bem estruturadas.
   </p>
 </div>
-<p align="center">
-  <img src="assets/foto.png" width="150px" />
-</p>
+
 ---
 
 ## 🎯 Especialidades
