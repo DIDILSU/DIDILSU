@@ -15,10 +15,10 @@
 ## 🎯 Especialidades
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Desarrollo-Frontend-FF4088?style=for-the-badge&logoColor=white" alt="Frontend"/>
-  <img src="https://img.shields.io/badge/Desarrollo-Backend-0A66C2?style=for-the-badge&logoColor=white" alt="Backend"/>
-  <img src="https://img.shields.io/badge/Ciencia_de_Datos-4CAF50?style=for-the-badge&logoColor=white" alt="Ciencia de Datos"/>
-  <img src="https://img.shields.io/badge/Computación_en_la_Nube-FF9800?style=for-the-badge&logoColor=white" alt="Computación en la Nube"/>
+  <img src="https://img.shields.io/badge/Desenvolvimento-Frontend-FF4088?style=for-the-badge&logoColor=white" alt="Frontend"/>
+  <img src="https://img.shields.io/badge/Desenvolvimento-Backend-0A66C2?style=for-the-badge&logoColor=white" alt="Backend"/>
+  <img src="https://img.shields.io/badge/Ciência_de_Dados-4CAF50?style=for-the-badge&logoColor=white" alt="Ciência de Dados"/>
+  <img src="https://img.shields.io/badge/Computação_na_Nuvem-FF9800?style=for-the-badge&logoColor=white" alt="Computação na Nuvem"/>
 </div>
 
 ## 💻 Stack Tecnológico
