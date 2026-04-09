@@ -3,42 +3,57 @@
 </div>
 
 <div align="center">
-  <h1>Adilson Lopes De Faria Junior</h1>
+  <h1>Adilson Lopes</h1>
   <h3>Desenvolvedor Web Full Stack</h3>
-  <p align="center">
-  Cientista da Computação com ampla experiência em desenvolvimento web full stack. Combino habilidades técnicas avançadas com uma sólida compreensão dos princípios da computação para criar soluções robustas e escaláveis.
-</p>
-
+  <p>
+    Cientista da Computação com experiência em desenvolvimento web full stack, focado na criação de soluções eficientes, escaláveis e bem estruturadas.
+  </p>
 </div>
 
+---
 
 ## 🎯 Especialidades
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Desenvolvimento-Frontend-FF4088?style=for-the-badge&logoColor=white" alt="Frontend"/>
-  <img src="https://img.shields.io/badge/Desenvolvimento-Backend-0A66C2?style=for-the-badge&logoColor=white" alt="Backend"/>
-  <img src="https://img.shields.io/badge/Ciência_de_Dados-4CAF50?style=for-the-badge&logoColor=white" alt="Ciência de Dados"/>
-  <img src="https://img.shields.io/badge/Computação_na_Nuvem-FF9800?style=for-the-badge&logoColor=white" alt="Computação na Nuvem"/>
+  <img src="https://img.shields.io/badge/Desenvolvimento-Frontend-FF4088?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Desenvolvimento-Backend-0A66C2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ciência_de_Dados-4CAF50?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computação_na_Nuvem-FF9800?style=for-the-badge&logoColor=white"/>
 </div>
+
+---
 
 ## 💻 Stack Tecnológico
 
 <div align="center">
-  <h3>Frontend e Mobile</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,flutter,graphql" />
-  
-  <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,graphql" />
-  
-  <h3>Banco de Dados e Nuvem</h3>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,docker,vercel,netlify" />
-  
-  <h3>Infraestrutura</h3>
-  <img src="https://skillicons.dev/icons?i=kubernetes,serverless,aws" />
-  
-  <h3>Ferramentas e Outros</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+
+### Frontend e Mobile
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,flutter,graphql" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,graphql" />
+
+### Banco de Dados e Nuvem
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,aws,docker,vercel,netlify" />
+
+### Infraestrutura
+<img src="https://skillicons.dev/icons?i=kubernetes,serverless,aws" />
+
+### Ferramentas
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" />
+
 </div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+- 🔹 [Travessia da Sorte](https://github.com/fsantosandrade/Board-Game)  
+  Jogo de tabuleiro desenvolvido com Angular, focado em conceitos de lógica e complexidade.
+
+- 🔹 Em breve mais projetos...
+
+---
 
 ## 🌐 Idiomas
 
@@ -48,6 +63,7 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Inglês-Básico-0A66C2?style=for-the-badge&logo=check-circle&logoColor=white" />
 </div>
 
+---
 
 ## 📫 Contato
 
@@ -58,9 +74,13 @@
   </a>
   
   <a href="https://www.linkedin.com/in/adilson-lopes-a626522b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Welliton_Da_Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Adilson_Lopes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
 </div>
 
+---
 
-
+<div align="center">
+  ⭐ Sempre buscando evoluir e construir projetos cada vez melhores.
+</div>
